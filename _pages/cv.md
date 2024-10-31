@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Welcome to my Resume"
+title: "Welcome to my Resume 👋"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,14 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-## PhD student in Applied Mathematics 💻 <br> & Aerospace Engineer 🛰️
-
-### ✨ What I like ✨
-- (Physics-Informed) Machine Learning 🤖
-- Fluid Dynamics 🌊
-- Earth Observation 🌍
-- Climate & Environmental Science 🌱
 
 ---
 
@@ -92,10 +84,10 @@ INSA Toulouse - Toulouse, France
 - **Frameworks & Libraries:** PyTorch, Scikit-learn, TensorFlow
 - **Tools & Platforms:** Spyder, VS Code, Jupyter, Git, GitHub
 
----
+<!-- ---
 
 ## 📫 Contact
 
 Feel free to reach out via [Email](mailto:hugo.boulenc@insa-toulouse.fr)
-<br> <sub><sup> 🤓 and don't forget to add me on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) </sup></sub>
+<br> <sub><sup> 🤓 and don't forget to add me on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) </sup></sub> -->
 

@@ -24,7 +24,7 @@ author:
   avatar           : "me_cropped.png"
   name             : "Hugo Boulenc"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Applied Mathematics & Aerospace Engineer"
+  bio              : "PhD student in Applied Mathematics 💻 & Aerospace Engineer 🛰️"
   location         : "Toulouse, France"
   employer         : "INSA Toulouse / IMT"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/hugo-boulenc-596694132/
+  linkedin         : hugo-boulenc-596694132
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
