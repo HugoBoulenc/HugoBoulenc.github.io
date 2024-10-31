@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Welcome to my Resume 👋"
+title: "✨ Welcome to my Resume ✨"
 permalink: /cv/
 author_profile: true
 redirect_from:
