@@ -20,11 +20,11 @@ INSA Toulouse / Institut de Mathématiques de Toulouse -- Toulouse, France
 - PhD student in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation
 - Supervised by J. Monnier (INSA Toulouse/IMT), P.-A. Garambois (INRAE Aix-en-Provence) and R. Bouclier (INSA Toulouse/ICA/IUF) at INSA Toulouse
 
-**MS, General Engineering, major in Aeronautics and Aerospace**  
+**MSc, General Engineering, major in Aeronautics and Aerospace**  
 EPF École d'Ingénieur-e-s - Montpellier & Paris, France
 <br> 2015 - 2020 
 
-- Specialization Degree (MS level) at CentraleSupélec in Aeronautics and Aerospace Engineering
+- Specialization Degree (MSc level) at CentraleSupélec in Aeronautics and Aerospace Engineering
 - Exchange Semester with Polytechnique Montréal in Mechanical Engineering 
 
 ---
