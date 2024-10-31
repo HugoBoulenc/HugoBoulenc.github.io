@@ -21,7 +21,7 @@ repository               : "HugoBoulenc/HugoBoulenc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/me_cropped.png"
+  avatar           : "me_cropped.png"
   name             : "Hugo Boulenc"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Applied Mathematics & Aerospace Engineer"
