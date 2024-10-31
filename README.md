@@ -1,91 +1,78 @@
-# Hugo Boulenc
+# Academic Pages
+**Academic Pages is a Github Pages template for academic websites.**
 
-## PhD student in Applied Mathematics 💻 <br> & Aerospace Engineer 🛰️
+![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
-### ✨ What I like ✨
-- (Physics-Informed) Machine Learning 🤖
-- Fluid Dynamics 🌊
-- Earth Observation 🌍
-- Climate & Environmental Science 🌱
+# Getting Started
 
----
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Click the "Use this template" button in the top right.
+1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and add your content.
+1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-## 📚 Education
+See more info at https://academicpages.github.io/
 
-**PhD student in Applied Mathematics**  
-INSA Toulouse / Institut de Mathématiques de Toulouse -- Toulouse, France
-<br> 2022 - Present 
+## Running locally
 
-- PhD student in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation
-- Supervised by J. Monnier (INSA Toulouse/IMT), P.-A. Garambois (INRAE Aix-en-Provence) and R. Bouclier (INSA Toulouse/ICA/IUF) at INSA Toulouse
+When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
-**MS, General Engineering, major in Aeronautics and Aerospace**  
-EPF École d'Ingénieur-e-s - Montpellier & Paris, France
-<br> 2015 - 2020 
+1. Clone the repository and made updates as detailed above.
+1. Make sure you have ruby-dev, bundler, and nodejs installed
+    
+    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
+    ```bash
+    sudo apt install ruby-dev ruby-bundler nodejs
+    ```
+    On MacOS the commands are:
+    ```bash
+    brew install ruby
+    brew install node
+    gem install bundler
+    ```
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-- Specialization Degree (MS level) at CentraleSupélec in Aeronautics and Aerospace Engineering
-- Exchange Semester with Polytechnique Montréal in Mechanical Engineering 
+If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
----
+## Using Docker
 
-## 💼 Professional Experience
+Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
-**Consulting Aerospace Engineer**  
-CNES / ALCADIA - Paris & Toulouse, France
-<br> 2020 - 2021
+Start by build the container:
 
-- Consulting Engineer in Cryogenics Systems simulation for the reusable launcher demonstrator Themis, developed by ArianeWorks
+```bash
+docker build -t jekyll-site .
+```
 
-**Internship in Fluid Dynamics and Machine Learning on Ariane 6**  
-ArianeGroup - Les Mureaux, France
-<br> 2020
+Next, run the container:
+```bash
+docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
+```
 
-- Development of a surrogate model based on CFD calculations and Machine Learning for convective heat transfer prediction on Ariane 6
+# Maintenance
 
----
+Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
-## 👨‍🏫 Research & Teaching
+This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
 
-### 📰 Publications
+## Bugfixes and enhancements
 
-H. Boulenc, R. Bouclier, P.-A. Garambois and J. Monnier. Spatially-distributed parameter identification by physics-informed neural networks illustrated on the shallow-water equations. Submitted.
+If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
 
-### 🎤 Conferences & Workshops
-
-**ECCOMAS** 
-Lisboa, Portugal
-<br> 2024
-
-- Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
-
-**ANITI Chair PILearnWater Plenary Session**
-Toulouse, France
-<br> 2024
-
-**ANR MUFFINS Plenary Sessions**
-Toulouse, France
-<br> 2022, 2023
-
-### 🎓 Teaching Experience
-
-**Teaching Assistant**  
-INSA Toulouse - Toulouse, France
-<br> 2022 - Present
-
-- Tutorial Sessions ("Travaux Dirigés") for 2ⁿᵈ and 3ʳᵈ year students in PDE, ODE and Fourier analysis 
-- Design and teaching of a Practical Session ("Travaux Pratiques") for 5ᵗʰ year students on Data Assimilation with Physics-Informed Machine Learning methods
+Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
 
 ---
+<div align="center">
+    
+![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-## 💻 Computer skills
+[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+</div>
 
-- **Programming Languages:** Python, MATLAB
-- **Frameworks & Libraries:** PyTorch, Scikit-learn, TensorFlow
-- **Tools & Platforms:** Spyder, VS Code, Jupyter, Git, GitHub
-
----
-
-## 📫 Contact
-
-Feel free to reach out via [Email](mailto:hugo.boulenc@insa-toulouse.fr)
-<br> <sub><sup> 🤓 and don't forget to add me on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) </sup></sub>
