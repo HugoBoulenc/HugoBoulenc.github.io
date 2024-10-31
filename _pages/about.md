@@ -11,12 +11,10 @@ redirect_from:
 
 ![Illustration showing my interests](/images/image_about_round_corners.png){: .align-right width="300px"}
 
-I'm a PhD student in Applied Mathematics at INSA Toulouse and Institut de Mathématiques de Toulouse (IMT). <br>
-My current research topic lies in Physics-Informed Machine Learning for floods simulation
+🔍 I'm a PhD student in Applied Mathematics at INSA Toulouse and the Institut de Mathématiques de Toulouse (IMT). <br> My research focuses on **Physics-Informed Machine Learning for flood simulation**.
 
 ---
 
-My research interests are in (Physics-Informed) Machine Learning 🤖, Fluid Dynamics 🌊 and Earth Observation 🌍. <br>
-I also want to use Machine Learning & Maths to solve today's important problems, such as environmental issues 🌱, climate urgency 🔥 or social inequalities ⚖️
+My interests span **(Physics-Informed) Machine Learning** 🤖, **Fluid Dynamics** 🌊, and **Earth Observation** 🌍. <br> I’m driven to apply my interdisciplinary skills in Maths, Physics and AI to address today's important challenges, such as **environmental issues** 🌱, **climate urgency** 🔥, and **social inequalities** ⚖️.
 
 
