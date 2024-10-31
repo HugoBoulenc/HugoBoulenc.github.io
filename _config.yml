@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Hugo's Homepage"
 title_separator          : "-"
 name                     : &name "Hugo Boulenc"
-description              : &description "PhD student in Applied Maths"
+description              : &description "PhD student in Applied Maths & Aerospace Engineer"
 url                      : https://hugoboulenc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "assets/me_cropped.png"
   name             : "Hugo Boulenc"
   pronouns         : # example: "she/her"  
-  bio              : "PhD studnet in Applied Mathematics & Aerospace Engineer"
+  bio              : "PhD student in Applied Mathematics & Aerospace Engineer"
   location         : "Toulouse, France"
   employer         : "INSA Toulouse / IMT"
   uri              : # URL
