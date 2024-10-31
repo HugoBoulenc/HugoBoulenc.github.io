@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Illustration showing my interests](/images/image_about.jpeg){: .align-right width="300px"}
+
 ### ✨ What I like ✨
 - (Physics-Informed) Machine Learning 🤖
 - Fluid Dynamics 🌊
