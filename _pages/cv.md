@@ -1,4 +1,13 @@
-# Hugo Boulenc
+---
+layout: archive
+title: "Welcome to my Resume"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 ## PhD student in Applied Mathematics 💻 <br> & Aerospace Engineer 🛰️
 
@@ -89,3 +98,4 @@ INSA Toulouse - Toulouse, France
 
 Feel free to reach out via [Email](mailto:hugo.boulenc@insa-toulouse.fr)
 <br> <sub><sup> 🤓 and don't forget to add me on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) </sup></sub>
+
