@@ -80,9 +80,9 @@ INSA Toulouse - Toulouse, France
 
 ## 💻 Computer skills
 
-- **Programming Languages:** Python, MATLAB
+- **Programming Languages:** Python, MATLAB, LaTeX
 - **Frameworks & Libraries:** PyTorch, Scikit-learn, TensorFlow
-- **Tools & Platforms:** Spyder, VS Code, Jupyter, Git, GitHub
+- **Tools & Platforms:** Spyder, VS Code, Jupyter, Git, GitHub, Ansys Fluent, CATIA
 
 <!-- ---
 
