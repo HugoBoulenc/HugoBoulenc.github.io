@@ -17,4 +17,4 @@ redirect_from:
 
 My interests are centered around **(Physics-Informed) Machine Learning** 🤖, **Fluid Dynamics** 🌊 and **Earth Observation** 🌍. <br> I’m driven to apply my interdisciplinary skills in Maths, Physics and AI to address today's important challenges, such as **environmental issues** 🌱, **climate urgency** 🔥 and **social inequalities** ⚖️.
 
-
+---
