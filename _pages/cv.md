@@ -70,8 +70,8 @@ Toulouse, France
 <br> 2024
 
 **ANR MUFFINS Plenary Sessions**
-Toulouse, France
-<br> 2022, 2023
+Aix-en-Provence & Toulouse, France
+<br> 2022, 2023, 2024
 
 ### 🎓 Teaching Experience
 
