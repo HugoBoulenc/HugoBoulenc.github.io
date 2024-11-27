@@ -59,6 +59,12 @@ Lisboa, Portugal
 
 - Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
 
+**ANITI Days** 
+Toulouse, France
+<br> 2024
+
+- Surrogate direct and inverse models for river hydraulics with hybrid Physics-Neural Networks methods, Poster co-presentation with Mustapha Allabou
+
 **ANITI Chair PILearnWater Plenary Session**
 Toulouse, France
 <br> 2024
