@@ -21,13 +21,13 @@ INSA Toulouse / Institut de Mathématiques de Toulouse -- Toulouse, France
 - Supervised by J. Monnier (INSA Toulouse/IMT), P.-A. Garambois (INRAE Aix-en-Provence) and R. Bouclier (INSA Toulouse/ICA/IUF) at INSA Toulouse
 
 **Specialization Degree in Mechanics, Aeronautics and Aerospace Engineering**  
-CentraleSupélec - Gif-sur-Yvette, France
+CentraleSupélec -- Gif-sur-Yvette, France
 <br> 2019 - 2020 
 
 - Final year of the "Ingénieur Centralien" curriculum, advanced courses in Fluid Dynamics
 
 **MSc in General Engineering, major in Aeronautics and Aerospace**  
-EPF École d'Ingénieur-e-s - Montpellier & Paris, France
+EPF École d'Ingénieur-e-s -- Montpellier & Sceaux, France
 <br> 2015 - 2020 
 
 - Exchange Semester with Polytechnique Montréal in Mechanical Engineering 
@@ -37,13 +37,13 @@ EPF École d'Ingénieur-e-s - Montpellier & Paris, France
 ## 💼 Professional Experience
 
 **Consulting Aerospace Engineer**  
-CNES / ALCADIA - Paris & Toulouse, France
+CNES / ALCADIA -- Paris & Toulouse, France
 <br> 2020 - 2021
 
 - Consulting Engineer in Cryogenics Systems simulation for the reusable launcher demonstrator Themis, developed by ArianeWorks
 
 **Internship in Fluid Dynamics and Machine Learning on Ariane 6**  
-ArianeGroup - Les Mureaux, France
+ArianeGroup -- Les Mureaux, France
 <br> 2020
 
 - Development of a surrogate model based on CFD calculations and Machine Learning for convective heat transfer prediction on Ariane 6
@@ -87,11 +87,11 @@ Aix-en-Provence & Toulouse, France
 ### 🎓 Teaching Experience
 
 **Teaching Assistant**  
-INSA Toulouse - Toulouse, France
+INSA Toulouse -- Toulouse, France
 <br> 2022 - Present
 
-- Tutorial Sessions ("Travaux Dirigés") for 2<sup>nd</sup> ⁿᵈ and 3ʳᵈ year students in PDE, ODE and Fourier analysis 
-- Design and teaching of a Practical Session ("Travaux Pratiques") for 5ᵗʰ year students on Data Assimilation with Physics-Informed Machine Learning methods
+- Tutorial Sessions ("Travaux Dirigés") for 2<sup>nd</sup> and 3<sup>rd</sup> year students in PDE, ODE and Fourier analysis 
+- Design and teaching of a Practical Session ("Travaux Pratiques") for 5<sup>th</sup> year students on Data Assimilation with Physics-Informed Machine Learning methods
 
 ---
 
