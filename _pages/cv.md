@@ -54,7 +54,7 @@ ArianeGroup - Les Mureaux, France
 
 ### 📰 Publications
 
-H. Boulenc, R. Bouclier, P.-A. Garambois and J. Monnier. Spatially-distributed parameter identification by physics-informed neural networks illustrated on the shallow-water equations. Submitted.
+Boulenc, H., Bouclier, R., Garambois, P. A., & Monnier, J. (2024). Spatially-distributed parameter identification by physics-informed neural networks illustrated on the 2D shallow-water equations. <i>Inverse Problems</i>.
 
 ### 🎤 Conferences & Workshops
 
