@@ -20,11 +20,16 @@ INSA Toulouse / Institut de Mathématiques de Toulouse -- Toulouse, France
 - PhD student in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation
 - Supervised by J. Monnier (INSA Toulouse/IMT), P.-A. Garambois (INRAE Aix-en-Provence) and R. Bouclier (INSA Toulouse/ICA/IUF) at INSA Toulouse
 
-**MSc, General Engineering, major in Aeronautics and Aerospace**  
+**Specialization Degree in Mechanics, Aeronautics and Aerospace Engineering**  
+CentraleSupélec - Gif-sur-Yvette, France
+<br> 2019 - 2020 
+
+- Final year of the "Ingénieur Centralien" curriculum, advanced courses in Fluid Dynamics
+
+**MSc in General Engineering, major in Aeronautics and Aerospace**  
 EPF École d'Ingénieur-e-s - Montpellier & Paris, France
 <br> 2015 - 2020 
 
-- Specialization Degree (MSc level) at CentraleSupélec in Aeronautics and Aerospace Engineering
 - Exchange Semester with Polytechnique Montréal in Mechanical Engineering 
 
 ---
@@ -53,11 +58,17 @@ H. Boulenc, R. Bouclier, P.-A. Garambois and J. Monnier. Spatially-distributed p
 
 ### 🎤 Conferences & Workshops
 
+**DTE & AICOMAS** 
+Paris, France
+<br> 2025
+
+- Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
+
 **ECCOMAS** 
 Lisboa, Portugal
 <br> 2024
 
-- Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
+- Physics-Informed Machine Learning for Parameter Identification on Shallow-Water Equations, Mini-Symposium presentation
 
 **ANITI Days** 
 Toulouse, France
@@ -65,9 +76,9 @@ Toulouse, France
 
 - Surrogate direct and inverse models for river hydraulics with hybrid Physics-Neural Networks methods, Poster co-presentation with Mustapha Allabou
 
-**ANITI Chair PILearnWater Plenary Session**
+**ANITI Chair PILearnWater Plenary Sessions**
 Toulouse, France
-<br> 2024
+<br> 2024, 2025
 
 **ANR MUFFINS Plenary Sessions**
 Aix-en-Provence & Toulouse, France
