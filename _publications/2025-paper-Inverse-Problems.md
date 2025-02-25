@@ -1,14 +1,14 @@
 ---
 title: "Spatially-distributed parameter identification by physics-informed neural networks illustrated on the 2D shallow-water equations"
 collection: publications
-# category: manuscripts
+category: manuscripts
 permalink: /publication/2025-paper-Inverse-Problems
 excerpt: 'Recent advancements in Physics-Informed Neural Networks (PINNs) offer promising opportunities for the identification of parameters of physical models based on ODEs and PDEs. This work revisits two representative PINN-based approaches for inverse problems, and applies them to fluid dynamics simulations. The first approach, here referred to as Fully-Parameterized PINN (FP-PINN), develops a parameter-differentiable surrogate model through an offline training phase, followed by a rapid online parameter identification phase. This method treats physical parameters as Neural Network (NN) inputs, making it prone to the curse of dimensionality. Conversely, the second approach, termed Semi-Parameterized PINN (SP-PINN), integrates physical parameters as NN parameters, allowing for efficient inference regardless of dimension using automatic differentiation. The performance of these two methods is first assessed through numerical experiments using an ODE-based model (the Backwater equation). Then, the SP-PINN is tested in a more representative scenario for identifying a O(10^3)-dimensional spatial friction parameter in a 2D Shallow-Water Equations model. Comparisons with the well-established and precision-validated Variational Data Assimilation method are performed. The latter, even based on the adjoint technique, remains computationally expensive for high-dimensional parameter identification and can be complex to implement. This work highlights the attractiveness of SP-PINN in terms of simplicity and efficiency, thus establishing this strategy as a complementary approach or even a compelling alternative in parameter identification of real-world flow models.'
 date: 2025-02-17
 venue: 'Inverse Problems'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6420/adb0e7/meta'
-citation: 'Boulenc, H., Bouclier, R., Garambois, P. A., & Monnier, J. (2024). Spatially-distributed parameter identification by physics-informed neural networks illustrated on the 2D shallow-water equations. <i>Inverse Problems</i>.'
+paperurl: 'https://dx.doi.org/10.1088/1361-6420/adb0e7'
+citation: 'Hugo Boulenc <i>et al<\i> 2025 <i>Inverse Problems</i> **41** 035006'
 # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
