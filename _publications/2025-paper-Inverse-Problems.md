@@ -8,7 +8,7 @@ date: 2025-02-17
 venue: 'Inverse Problems'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dx.doi.org/10.1088/1361-6420/adb0e7'
-citation: 'Hugo Boulenc <i>et al</i> 2025 <i>Inverse Problems</i> **41** 035006'
+citation: 'Hugo Boulenc <i>et al</i> 2025 <i>Inverse Problems</i> <b>41</b> 035006'
 # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

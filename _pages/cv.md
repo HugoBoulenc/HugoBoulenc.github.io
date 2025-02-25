@@ -90,7 +90,7 @@ Aix-en-Provence & Toulouse, France
 INSA Toulouse - Toulouse, France
 <br> 2022 - Present
 
-- Tutorial Sessions ("Travaux Dirigés") for 2ⁿᵈ and 3ʳᵈ year students in PDE, ODE and Fourier analysis 
+- Tutorial Sessions ("Travaux Dirigés") for 2<sup>nd</sup> ⁿᵈ and 3ʳᵈ year students in PDE, ODE and Fourier analysis 
 - Design and teaching of a Practical Session ("Travaux Pratiques") for 5ᵗʰ year students on Data Assimilation with Physics-Informed Machine Learning methods
 
 ---
