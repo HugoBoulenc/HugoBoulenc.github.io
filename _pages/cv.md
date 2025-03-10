@@ -64,13 +64,13 @@ Boulenc, H., Bouclier, R., Garambois, P. A., & Monnier, J. (2025). Spatially-dis
 Paris, France
 <br> 2025
 
-- Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
+- Physics-Informed Machine Learning for Parameter Identification on Shallow-Water Equations, Mini-Symposium presentation
 
 **ECCOMAS** 
 Lisboa, Portugal
 <br> 2024
 
-- Physics-Informed Machine Learning for Parameter Identification on Shallow-Water Equations, Mini-Symposium presentation
+- Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
 
 **ANITI Days** 
 Toulouse, France
