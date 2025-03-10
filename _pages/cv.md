@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download the pdf version \url{/files/Resume.pdf}{here}.
+
 ---
 
 ## 📚 Education
