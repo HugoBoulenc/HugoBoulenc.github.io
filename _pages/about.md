@@ -17,7 +17,7 @@ redirect_from:
 
 👨🏼‍💻 As a freelancer, I help companies and research teams **leverage complex data** from physical phenomena, **build fast surrogate models** to accelerate simulations, and **combine data with physical models** to improve predictions.
 
-My areas of interest include **(Physics-Informed) Machine Learning** 🤖, **Fluid Dynamics** 🌊, and **Earth Observation** 🌍. I’m committed to **projects with real-world impact**, especially in environment 🌱, climate urgency 🔥, and social equity ⚖️.
+My areas of interest include (Physics-Informed) **Machine Learning** 🤖, **Fluid Dynamics** 🌊, and **Earth Observation** 🌍. I’m committed to **projects with real-world impact**, especially in environment 🌱, climate urgency 🔥, and social equity ⚖️.
 
 ---
 
@@ -27,7 +27,7 @@ My areas of interest include **(Physics-Informed) Machine Learning** 🤖, **Flu
 
 👨🏼‍💻 En freelance, j’aide les entreprises et les équipes de recherche à **exploiter des données complexes** issues de phénomènes physiques, à **construire des modèles réduits rapides** pour accélérer vos simulations, ou à **combiner données et modèles physiques** pour améliorer vos prédictions.
 
-Mes domaines d’intérêt sont : le **Machine Learning (informé par la physique ou non)** 🤖, la **dynamique des fluides** 🌊 et l'**observation de la Terre** 🌍. Je suis engagé pour des **projets à impact réel**, notamment dans l'environnement 🌱, l'urgence climatique 🔥 et l'égalité sociale ⚖️.
+Mes domaines d’intérêt sont : le **Machine Learning** (informé par la physique) 🤖, la **dynamique des fluides** 🌊 et l'**observation de la Terre** 🌍. Je suis engagé pour des **projets à impact réel**, notamment dans l'environnement 🌱, l'urgence climatique 🔥 et l'égalité sociale ⚖️.
 
 ---
 
