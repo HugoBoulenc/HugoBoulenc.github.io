@@ -11,7 +11,7 @@ redirect_from:
 
 ![Illustration showing my interests](/images/image_about_round_corners.png){: .align-right width="300px"}
 
-🇬🇧 **About me**
+**[EN] About me**
 
 🔎 I’m a PhD student in Applied Mathematics specializing in **Physics-Informed Machine Learning**, integrating physical knowledge into AI models to make them more accurate and robust.
 
@@ -21,13 +21,13 @@ My areas of interest include **(Physics-Informed) Machine Learning** 🤖, **Flu
 
 ---
 
-🇫🇷 **À propos de moi**
+**[FR] À propos de moi**
 
 🔎 Doctorant en Mathématiques Appliquées, je suis spécialisé en **Machine Learning informé par la physique** : j’intègre des connaissances physiques dans des modèles d’IA pour les rendre plus précis et robustes.
 
 👨🏼‍💻 En freelance, j’aide les entreprises et les équipes de recherche à **exploiter des données complexes** issues de phénomènes physiques, à **construire des modèles réduits rapides** pour accélérer vos simulations, ou à **combiner données et modèles physiques** pour améliorer vos prédictions.
 
-Mes domaines d’intérêt sont : le **Machine Learning (informé par la physique ou non)** 🤖, la **dynamique des fluides** 🌊 et **l'observation de la Terre** 🌍. Je suis engagé pour des **projets à impact réel**, notamment en environnement 🌱, urgence climatique 🔥 et égalité sociale ⚖️.
+Mes domaines d’intérêt sont : le **Machine Learning (informé par la physique ou non)** 🤖, la **dynamique des fluides** 🌊 et l'**observation de la Terre** 🌍. Je suis engagé pour des **projets à impact réel**, notamment dans l'environnement 🌱, l'urgence climatique 🔥 et l'égalité sociale ⚖️.
 
 ---
 
