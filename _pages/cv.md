@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the pdf version [here](/files/Resume.pdf).
+You can download the pdf version [here](/files/Curriculum_Vitae.pdf).
 
 ---
 
@@ -38,17 +38,23 @@ EPF École d'Ingénieur-e-s -- Montpellier & Sceaux, France
 
 ## 💼 Professional Experience
 
+**Freelance in Machine Learning & Data Science for Physics**  
+Freelance -- Montpellier, France
+<br> 2026 - Present
+
+- I help companies and research teams leverage complex data from physical phenomena, build fast surrogate models to accelerate simulations, and combine data with physical models to improve predictions
+
 **Consulting Aerospace Engineer**  
 CNES / ALCADIA -- Paris & Toulouse, France
 <br> 2020 - 2021
 
-- Consulting Engineer in Cryogenics Systems simulation for the reusable launcher demonstrator Themis, developed by ArianeWorks
+- Modelization of Cryogenics Systems for the reusable launcher demonstrator Themis
 
 **Internship in Fluid Dynamics and Machine Learning on Ariane 6**  
 ArianeGroup -- Les Mureaux, France
 <br> 2020
 
-- Development of a surrogate model based on CFD calculations and Machine Learning for convective heat transfer prediction on Ariane 6
+- Development of a surrogate model based on CFD calculations and Machine Learning for Ariane 6
 
 ---
 
