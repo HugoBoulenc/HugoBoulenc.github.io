@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hugo's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Hugo Boulenc"
 description              : &description "PhD student in Applied Mathematics & Aerospace Engineer | Freelance in Machine Learning & Data Science for Physics"

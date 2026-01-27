@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "💻 What I offer 💻"
+title: "💻 Supporting your Scientific & Data Projects 💻"
 permalink: /freelance/
 author_profile: true
 redirect_from:
@@ -12,15 +12,15 @@ redirect_from:
 ---
 
 I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery.  
-Each mission is structured around clear milestones, deliverables, and payments. All missions can be fully tailored to your specific objectives, data, and operational constraints.
+The following missions illustrate typical engagement formats. **Each mission can be fully customized to match the client’s objectives, data, and context.**
 
 ---
 
-## 🔍 Short Mission (< 10 days): State of the Art Review
+## 🔍 Short Mission Example (< 10 workdays): State of the Art Review
 
 ### Milestone 0: Kick-off & Down Payment
 
-- **Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
+- **Objective:** Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.
 
 - **Payment:** 20% of the total price.
 
@@ -43,11 +43,11 @@ Each mission is structured around clear milestones, deliverables, and payments. 
 
 ---
 
-## 📊 Medium Mission (10–20 days): Data Analysis
+## 📊 Medium Mission Example (10–20 workdays): Data Analysis
 
 ### Milestone 0: Kick-off & Down Payment
 
-- **Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
+- **Objective:** Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.
 
 - **Payment:** 20% of the total price.
 
@@ -88,11 +88,11 @@ Each mission is structured around clear milestones, deliverables, and payments. 
 
 ---
 
-## 🧠 Long Mission (> 20 days): Model Development
+## 🧠 Long Mission Example (> 20 workdays): Model Development
 
 ### Milestone 0: Kick-off & Down Payment
 
-- **Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
+- **Objective:** Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.
 
 - **Payment:** 20% of the total price.
 
@@ -148,3 +148,5 @@ Each mission is structured around clear milestones, deliverables, and payments. 
   - Oral presentation with slides
 
 - **Payment:** 40% of the total price.
+
+- **Post-mission:** An optional paid maintenance service is available to ensure long-term model performance, robustness, and adaptation to new data.
