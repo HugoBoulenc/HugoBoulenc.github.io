@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "✨ Welcome to my Resume ✨"
-permalink: /cv/
+title: "💻 What I offer 💻"
+permalink: /freelance/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 {% include base_path %}
-
-You can download the pdf version [here](/files/Curriculum_Vitae.pdf).
 
 ---
 
@@ -91,7 +89,7 @@ Toulouse, France
 
 **ANR MUFFINS Plenary Sessions**
 Aix-en-Provence & Toulouse, France
-<br> 2022 -- 2024
+<br> 2022, 2023, 2024
 
 ### 🎓 Teaching Experience
 
