@@ -10,12 +10,12 @@ main:
 
   - title: "Freelance"
     url: /freelance/
-
-  # - title: "Portfolio"
-  #   url: /portfolio/
     
   - title: "Research"
     url: /publications/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   # - title: "Talks"
   #   url: /talks/    

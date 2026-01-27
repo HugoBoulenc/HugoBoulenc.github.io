@@ -3,115 +3,148 @@ layout: archive
 title: "💻 What I offer 💻"
 permalink: /freelance/
 author_profile: true
-# redirect_from:
-#   - /resume
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
 
 ---
 
-## 💼 Professional Experience
-
-**Freelance in Machine Learning & Data Science for Physics**  
-Freelance -- Montpellier, France
-<br> 2026 - Present
-
-- I help companies and research teams leverage complex data from physical phenomena, build fast surrogate models to accelerate simulations, and combine data with physical models to improve predictions
-- I’m committed to projects with real-world impact, especially in environment, climate urgency, and social equity
-
-**Consulting Aerospace Engineer**  
-CNES / ALCADIA -- Paris & Toulouse, France
-<br> 2020 - 2021
-
-- Modelization of Cryogenics Systems for the reusable launcher demonstrator Themis
-
-**Internship in Fluid Dynamics and Machine Learning on Ariane 6**  
-ArianeGroup -- Les Mureaux, France
-<br> 2020
-
-- Development of a surrogate model based on CFD calculations and Machine Learning for Ariane 6
+I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery.  
+Each mission is structured around clear milestones, deliverables, and payments. All missions can be fully tailored to your specific objectives, data, and operational constraints.
 
 ---
 
-## 📚 Education
+## 🔍 Short Mission (< 10 days): State of the Art Review
 
-**PhD student in Applied Mathematics**  
-INSA Toulouse / Institut de Mathématiques de Toulouse -- Toulouse, France
-<br> 2022 - Present 
+### Milestone 0: Kick-off & Down Payment
 
-- PhD student in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation
-- Supervised by J. Monnier (INSA Toulouse/IMT), P.-A. Garambois (INRAE Aix-en-Provence) and R. Bouclier (INSA Toulouse/ICA/IUF) at INSA Toulouse
+**Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
 
-**Specialization Degree in Mechanics, Aeronautics and Aerospace Engineering**  
-CentraleSupélec -- Gif-sur-Yvette, France
-<br> 2019 - 2020 
+**Payment:** 20% of the total price.
 
-- Final year of the "Ingénieur Centralien" curriculum, advanced courses in Fluid Dynamics
+### Milestone 1: State of the Art & Scientific Watch
 
-**MSc in General Engineering, major in Aeronautics and Aerospace**  
-EPF École d'Ingénieur-e-s -- Montpellier & Sceaux, France
-<br> 2015 - 2020 
+**Objective:** Establish a clear and structured overview of the scientific landscape on a given topic.
 
-- Exchange Semester with Polytechnique Montréal in Fluid Dynamics & Heat Transfer Science
+**Scope:**
 
----
+- Audit of approaches previously developed by the client
+- Literature review of approximately 3 key scientific publications
+- Comparison of ~3 major methods through a structured table (advantages / limitations)
 
-## 👨‍🏫 Research & Teaching
+**Deliverables:**
 
-### 📰 Publications
+- Concise report (~5 pages) including a comparative table  
+- Oral presentation with slides
 
-Boulenc, H., Bouclier, R., Garambois, P. A., & Monnier, J. (2025). Spatially-distributed parameter identification by physics-informed neural networks illustrated on the 2D shallow-water equations. <i>Inverse Problems</i>.
-
-### 🎤 Conferences & Workshops
-
-**DTE & AICOMAS** 
-Paris, France
-<br> 2025
-
-- Physics-Informed Machine Learning for Parameter Identification on Shallow-Water Equations, Mini-Symposium presentation
-
-**ECCOMAS** 
-Lisboa, Portugal
-<br> 2024
-
-- Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
-
-**ANITI Days** 
-Toulouse, France
-<br> 2024
-
-- Surrogate direct and inverse models for river hydraulics with hybrid Physics-Neural Networks methods, Poster co-presentation with Mustapha Allabou
-
-**ANITI Chair PILearnWater Plenary Sessions**
-Toulouse, France
-<br> 2024, 2025
-
-**ANR MUFFINS Plenary Sessions**
-Aix-en-Provence & Toulouse, France
-<br> 2022, 2023, 2024
-
-### 🎓 Teaching Experience
-
-**Teaching Assistant**  
-INSA Toulouse -- Toulouse, France
-<br> 2022 - Present
-
-- Tutorial Sessions ("Travaux Dirigés") for 2<sup>nd</sup> and 3<sup>rd</sup> year students in PDE, ODE and Fourier analysis 
-- Design and teaching of a Practical Session ("Travaux Pratiques") for 5<sup>th</sup> year students on Data Assimilation with Physics-Informed Machine Learning methods
+**Payment:** 80% of the total price.
 
 ---
 
-## 💻 Computer skills
+## 📊 Medium Mission (10–20 days): Data Analysis
 
-- **Programming Languages:** Python, MATLAB, LaTeX
-- **Frameworks & Libraries:** PyTorch, Scikit-learn, TensorFlow
-- **Tools & Platforms:** Spyder, VS Code, Jupyter, Git, GitHub, Ansys Fluent, CATIA
+### Milestone 0: Kick-off & Down Payment
 
-<!-- ---
+**Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
 
-## 📫 Contact
+**Payment:** 20% of the total price.
 
-Feel free to reach out via [Email](mailto:hugo.boulenc@insa-toulouse.fr)
-<br> <sub><sup> 🤓 and don't forget to add me on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) </sup></sub> -->
+### Milestone 1: State of the Art & Scientific Framing
 
+**Objective:** Build a solid scientific foundation to guide the data analysis.
+
+**Scope:**
+
+- Audit of approaches previously developed by the client
+- Literature review of approximately 3 key scientific publications
+- Comparison of ~3 major methods through a structured table (advantages / limitations)
+
+**Deliverables:**
+
+- Synthetic report (~3 pages) with comparative table  
+- Oral presentation with slides
+
+**Payment:** 20% of the total price.
+
+### Milestone 2: Data Exploration & Analysis
+
+**Objective:** Understand, clean, and analyze the data to prepare it for operational use.
+
+**Scope:**
+
+- Correlation analysis and dimensionality reduction
+- Feature engineering (sampling strategies, spectral analysis, etc.)
+- Data structuring within a robust and reproducible workspace
+
+**Deliverables:**
+
+- Interactive notebook with full data exploration  
+- Executive summary (~5 pages)  
+- Oral presentation with slides
+
+**Payment:** 60% of the total price.
+
+---
+
+## 🧠 Long Mission (> 20 days): Model Development
+
+### Milestone 0: Kick-off & Down Payment
+
+**Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
+
+**Payment:** 20% of the total price.
+
+### Milestone 1: State of the Art & Scientific Framing
+
+**Objective:** Establish a strong scientific baseline for the entire mission.
+
+**Scope:**
+
+- Audit of approaches previously developed by the client
+- Literature review of approximately 3 key scientific publications
+- Comparison of ~3 major methods through a structured table (advantages / limitations)
+
+**Deliverables:**
+
+- Synthetic report (~3 pages) with comparative table  
+- Oral presentation with slides
+
+**Payment:** 20% of the total price.
+
+### Milestone 2: Data Exploration & Structuring
+
+**Objective:** Prepare high-quality data for the modeling phase.
+
+**Scope:**
+
+- Correlation analysis and dimensionality reduction
+- Feature engineering (sampling strategies, spectral analysis, etc.)
+- Data structuring and construction of a robust working environment
+
+**Deliverables:**
+
+- Interactive notebook for data exploration  
+- Executive summary (~5 pages)  
+- Oral presentation with slides
+
+**Payment:** 20% of the total price.
+
+### Milestone 3: Model Development & Delivery
+
+**Objective:** Develop, optimize, and transfer a performant and interpretable model to the client teams.
+
+**Scope:**
+
+- Model training and interpretation of results
+- Sensitivity analysis and robustness to hyperparameters
+- Team training with dedicated slides for model usage
+
+**Deliverables:**
+
+- Trained model and training scripts  
+- Technical report (~10 pages)  
+- Oral presentation with slides
+
+**Payment:** 40% of the total price.

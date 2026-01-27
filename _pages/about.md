@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 ---
 
 ![Illustration showing my interests](/images/image_about_round_corners.png){: .align-right width="300px"}
