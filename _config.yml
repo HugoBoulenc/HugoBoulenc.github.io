@@ -25,8 +25,8 @@ author:
   name             : "Hugo Boulenc"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Applied Mathematics & Aerospace Engineer | Freelance in Machine Learning & Data Science for Physics"
-  location         : "Toulouse, France"
-  employer         : "INSA Toulouse / IMT"
+  location         : # "Montpellier, France"
+  employer         : # "INSA Toulouse / IMT"
   uri              : # URL
   email            : "hugo.boulenc@etik.com" 
 
