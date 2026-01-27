@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "💻 Supporting your Scientific & Data Projects 💻"
+title: "🔬 Supporting your Scientific & Data Projects 🔬"
 permalink: /freelance/
 author_profile: true
 redirect_from:
@@ -149,6 +149,6 @@ The following missions illustrate typical engagement formats. **Each mission can
 
 - **Payment:** 40% of the total price.
 
-### Post-mission
+### Post-mission: Model Maintenance
 
 An optional paid maintenance service is available to ensure long-term model performance, robustness, and adaptation to new data.
