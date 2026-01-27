@@ -47,44 +47,44 @@ Each mission is structured around clear milestones, deliverables, and payments. 
 
 ### Milestone 0: Kick-off & Down Payment
 
-**Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
+- **Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
 
-**Payment:** 20% of the total price.
+- **Payment:** 20% of the total price.
 
 ### Milestone 1: State of the Art & Scientific Framing
 
-**Objective:** Build a solid scientific foundation to guide the data analysis.
+- **Objective:** Build a solid scientific foundation to guide the data analysis.
 
-**Scope:**
+- **Scope:**
 
-- Audit of approaches previously developed by the client
-- Literature review of approximately 3 key scientific publications
-- Comparison of ~3 major methods through a structured table (advantages / limitations)
+  - Audit of approaches previously developed by the client
+  - Literature review of approximately 3 key scientific publications
+  - Comparison of ~3 major methods through a structured table (advantages / limitations)
 
-**Deliverables:**
+- **Deliverables:**
 
-- Synthetic report (~5 pages) with comparative table  
-- Oral presentation with slides
+  - Synthetic report (~5 pages) with comparative table  
+  - Oral presentation with slides
 
-**Payment:** 20% of the total price.
+- **Payment:** 20% of the total price.
 
 ### Milestone 2: Data Exploration & Analysis
 
-**Objective:** Understand, clean, and analyze the data to prepare it for operational use.
+- **Objective:** Understand, clean, and analyze the data to prepare it for operational use.
 
-**Scope:**
+- **Scope:**
 
-- Correlation analysis and dimensionality reduction
-- Feature engineering (sampling strategies, spectral analysis, etc.)
-- Data structuring within a robust and reproducible workspace
+  - Correlation analysis and dimensionality reduction
+  - Feature engineering (sampling strategies, spectral analysis, etc.)
+  - Data structuring within a robust and reproducible workspace
 
-**Deliverables:**
+- **Deliverables:**
 
-- Interactive notebook with full data exploration  
-- Executive summary (~5 pages)  
-- Oral presentation with slides
+  - Interactive notebook with full data exploration  
+  - Executive summary (~5 pages)  
+  - Oral presentation with slides
 
-**Payment:** 60% of the total price.
+- **Payment:** 60% of the total price.
 
 ---
 
@@ -92,59 +92,59 @@ Each mission is structured around clear milestones, deliverables, and payments. 
 
 ### Milestone 0: Kick-off & Down Payment
 
-**Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
+- **Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
 
-**Payment:** 20% of the total price.
+- **Payment:** 20% of the total price.
 
 ### Milestone 1: State of the Art & Scientific Framing
 
-**Objective:** Establish a strong scientific baseline for the entire mission.
+- **Objective:** Establish a strong scientific baseline for the entire mission.
 
-**Scope:**
+- **Scope:**
 
-- Audit of approaches previously developed by the client
-- Literature review of approximately 3 key scientific publications
-- Comparison of ~3 major methods through a structured table (advantages / limitations)
+  - Audit of approaches previously developed by the client
+  - Literature review of approximately 3 key scientific publications
+  - Comparison of ~3 major methods through a structured table (advantages / limitations)
 
-**Deliverables:**
+- **Deliverables:**
 
-- Synthetic report (~5 pages) with comparative table  
-- Oral presentation with slides
+  - Synthetic report (~5 pages) with comparative table  
+  - Oral presentation with slides
 
-**Payment:** 20% of the total price.
+- **Payment:** 20% of the total price.
 
 ### Milestone 2: Data Exploration & Structuring
 
-**Objective:** Prepare high-quality data for the modeling phase.
+- **Objective:** Prepare high-quality data for the modeling phase.
 
-**Scope:**
+- **Scope:**
 
-- Correlation analysis and dimensionality reduction
-- Feature engineering (sampling strategies, spectral analysis, etc.)
-- Data structuring and construction of a robust working environment
+  - Correlation analysis and dimensionality reduction
+  - Feature engineering (sampling strategies, spectral analysis, etc.)
+  - Data structuring and construction of a robust working environment
 
-**Deliverables:**
+- **Deliverables:**
 
-- Interactive notebook for data exploration  
-- Executive summary (~5 pages)  
-- Oral presentation with slides
+   - Interactive notebook for data exploration  
+   - Executive summary (~5 pages)  
+   - Oral presentation with slides
 
-**Payment:** 20% of the total price.
+- **Payment:** 20% of the total price.
 
 ### Milestone 3: Model Development & Delivery
 
-**Objective:** Develop, optimize, and transfer a performant and interpretable model to the client teams.
+- **Objective:** Develop, optimize, and transfer a performant and interpretable model to the client teams.
 
-**Scope:**
+- **Scope:**
 
-- Model training and interpretation of results
-- Sensitivity analysis and robustness to hyperparameters
-- Team training with dedicated slides for model usage
+  - Model training and interpretation of results
+  - Sensitivity analysis and robustness to hyperparameters
+  - Team training with dedicated slides for model usage
 
-**Deliverables:**
+- **Deliverables:**
 
-- Trained model and training scripts  
-- Technical report (~10 pages)  
-- Oral presentation with slides
+  - Trained model and training scripts  
+  - Technical report (~10 pages)  
+  - Oral presentation with slides
 
-**Payment:** 40% of the total price.
+- **Payment:** 40% of the total price.
