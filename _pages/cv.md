@@ -83,7 +83,7 @@ Lisboa, Portugal
 Toulouse, France
 <br> 2024
 
-- Surrogate direct and inverse models for river hydraulics with hybrid Physics-Neural Networks methods, Poster co-presentation with Mustapha Allabou
+- Surrogate direct and inverse models for river hydraulics with hybrid Physics-Neural Networks methods, Poster co-presentation with M. Allabou
 
 **ANITI Chair PILearnWater Plenary Sessions**
 Toulouse, France
