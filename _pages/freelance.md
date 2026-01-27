@@ -149,4 +149,6 @@ The following missions illustrate typical engagement formats. **Each mission can
 
 - **Payment:** 40% of the total price.
 
-- **Post-mission:** An optional paid maintenance service is available to ensure long-term model performance, robustness, and adaptation to new data.
+### Post-mission
+
+An optional paid maintenance service is available to ensure long-term model performance, robustness, and adaptation to new data.
