@@ -20,26 +20,26 @@ Each mission is structured around clear milestones, deliverables, and payments. 
 
 ### Milestone 0: Kick-off & Down Payment
 
-**Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
+- **Objective:** This milestone conditions the start of the mission. Payment is due upon quotation signature.
 
-**Payment:** 20% of the total price.
+- **Payment:** 20% of the total price.
 
 ### Milestone 1: State of the Art & Scientific Watch
 
-**Objective:** Establish a clear and structured overview of the scientific landscape on a given topic.
+- **Objective:** Establish a clear and structured overview of the scientific landscape on a given topic.
 
-**Scope:**
+- **Scope:**
 
-- Audit of approaches previously developed by the client
-- Literature review of approximately 3 key scientific publications
-- Comparison of ~3 major methods through a structured table (advantages / limitations)
+  - Audit of approaches previously developed by the client
+  - Literature review of approximately 3 key scientific publications
+  - Comparison of ~3 major methods through a structured table (advantages / limitations)
 
-**Deliverables:**
+- **Deliverables:**
 
-- Concise report (~5 pages) including a comparative table  
-- Oral presentation with slides
+  - Concise report (~5 pages) including a comparative table  
+  - Oral presentation with slides
 
-**Payment:** 80% of the total price.
+- **Payment:** 80% of the total price.
 
 ---
 
@@ -63,7 +63,7 @@ Each mission is structured around clear milestones, deliverables, and payments. 
 
 **Deliverables:**
 
-- Synthetic report (~3 pages) with comparative table  
+- Synthetic report (~5 pages) with comparative table  
 - Oral presentation with slides
 
 **Payment:** 20% of the total price.
@@ -108,7 +108,7 @@ Each mission is structured around clear milestones, deliverables, and payments. 
 
 **Deliverables:**
 
-- Synthetic report (~3 pages) with comparative table  
+- Synthetic report (~5 pages) with comparative table  
 - Oral presentation with slides
 
 **Payment:** 20% of the total price.
