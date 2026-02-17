@@ -27,12 +27,12 @@ You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
   <li>I’m committed to projects with real-world impact, especially in environment, climate urgency, and social equity</li>
 </ul>
 
-<p><strong>PhD student in Applied Mathematics</strong><br>
+<p><strong>PhD student in Applied Mathematics for Machine Learning</strong><br>
 <em>INSA Toulouse / Institut de Mathématiques de Toulouse - Toulouse, France</em><br>
 <em>2022 - Present</em></p>
 
 <ul>
-  <li>I’m developing Physics-Informed Neural Networks (PINNs) and other Physics-Informed Machine Learning architectures for high-dimensional data assimilation, using PyTorch</li>
+  <li>I’m developing Physics-Informed Neural Networks (PINNs) and other Physics-Informed Machine Learning architectures for high-dimensional data assimilation applied to the Shallow-Water Equations and other hydraulic models, using PyTorch</li>
   <li>My research bridges AI, fluid dynamics, and applied mathematics, focusing on inverse problems, numerical simulations and parameter estimation in complex spatio-temporal domains</li>
 </ul>
 
@@ -59,7 +59,7 @@ You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
 <details>
 <summary><strong>📚 Education</strong></summary>
 
-<p><strong>PhD student in Applied Mathematics</strong><br>
+<p><strong>PhD student in Applied Mathematics for Machine Learning</strong><br>
 <em>INSA Toulouse / Institut de Mathématiques de Toulouse - Toulouse, France</em><br>
 <em>2022 - Present</em></p>
 

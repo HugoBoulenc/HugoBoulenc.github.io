@@ -17,7 +17,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 ---
 
 <details>
-<summary><strong>🔍 Short Mission Example (&lt; 10 workdays): State of the Art Review</strong></summary>
+<summary><strong>🔍 Short Mission Example: State of the Art Review  (&lt; 10 workdays)</strong></summary>
 
 <h3>Milestone 0: Kick-off & Down Payment</h3>
 
@@ -54,7 +54,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 <hr>
 
 <details>
-<summary><strong>📊 Medium Mission Example (10–20 workdays): Data Analysis</strong></summary>
+<summary><strong>📊 Medium Mission Example: Data Analysis (10 – 20 workdays)</strong></summary>
 
 <h3>Milestone 0: Kick-off & Down Payment</h3>
 
@@ -115,7 +115,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 <hr>
 
 <details>
-<summary><strong>🧠 Long Mission Example (&gt; 20 workdays): Model Development</strong></summary>
+<summary><strong>🧠 Long Mission Example: Model Development (&gt; 20 workdays)</strong></summary>
 
 <h3>Milestone 0: Kick-off & Down Payment</h3>
 
