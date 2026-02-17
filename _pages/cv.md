@@ -151,11 +151,9 @@ Spatially-distributed parameter identification by physics-informed neural networ
 <details>
 <summary><strong>💻 Computer skills</strong></summary>
 
-<ul>
-  <li><strong>Programming Languages:</strong> Python, MATLAB, LaTeX</li>
-  <li><strong>Frameworks & Libraries:</strong> PyTorch, Scikit-learn, TensorFlow</li>
-  <li><strong>Tools & Platforms:</strong> Spyder, VS Code, Jupyter, Git, GitHub, Ansys Fluent, CATIA</li>
-</ul>
+<strong>Programming Languages:</strong> Python, MATLAB, LaTeX
+<strong>Frameworks & Libraries:</strong> PyTorch, Scikit-learn, TensorFlow, SciPy, NumPy, Matplotlib
+<strong>Tools & Platforms:</strong> Visual Studio Code, Jupyter Notebook, Spyder, Git, GitHub, Ansys Fluent, CATIA
 
 </details>
 
