@@ -16,26 +16,23 @@ You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
 <details>
 <summary><strong>💼 Professional Experience</strong></summary>
 
-<h3>Freelance in Machine Learning & Data Science for Physics</h3>
-<p><strong>Freelance -- Montpellier, France</strong><br>
-2026 - Present</p>
+<h3><strong>Freelance in Machine Learning & Data Science for Physics</strong></h3>
+<p><em>Freelance - Montpellier, France - 2026 - Present</em></p>
 
 <ul>
   <li>I help companies and research teams leverage complex data from physical phenomena, build fast surrogate models to accelerate simulations, and combine data with physical models to improve predictions</li>
   <li>I’m committed to projects with real-world impact, especially in environment, climate urgency, and social equity</li>
 </ul>
 
-<h3>Consulting Aerospace Engineer</h3>
-<p><strong>CNES / ALCADIA -- Paris & Toulouse, France</strong><br>
-2020 - 2021</p>
+<h3><strong>Consulting Aerospace Engineer</strong></h3>
+<p><em>CNES / ALCADIA - Paris & Toulouse, France - 2020 - 2021</em></p>
 
 <ul>
   <li>Modelization of Cryogenics Systems for the reusable launcher demonstrator Themis</li>
 </ul>
 
-<h3>Internship in Fluid Dynamics and Machine Learning on Ariane 6</h3>
-<p><strong>ArianeGroup -- Les Mureaux, France</strong><br>
-2020</p>
+<h3><strong>Internship in Fluid Dynamics and Machine Learning on Ariane 6</strong></h3>
+<p><em>ArianeGroup - Les Mureaux, France - 2020</em></p>
 
 <ul>
   <li>Development of a surrogate model based on CFD calculations and Machine Learning for Ariane 6</li>
@@ -48,26 +45,23 @@ You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
 <details>
 <summary><strong>📚 Education</strong></summary>
 
-<h3>PhD student in Applied Mathematics</h3>
-<p><strong>INSA Toulouse / Institut de Mathématiques de Toulouse -- Toulouse, France</strong><br>
-2022 - Present</p>
+<h3><strong>PhD student in Applied Mathematics</strong></h3>
+<p><em>INSA Toulouse / Institut de Mathématiques de Toulouse - Toulouse, France - 2022 - Present</em></p>
 
 <ul>
   <li>PhD student in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation</li>
   <li>Supervised by J. Monnier (INSA Toulouse/IMT), P.-A. Garambois (INRAE Aix-en-Provence) and R. Bouclier (INSA Toulouse/ICA/IUF) at INSA Toulouse</li>
 </ul>
 
-<h3>Specialization Degree in Mechanics, Aeronautics and Aerospace Engineering</h3>
-<p><strong>CentraleSupélec -- Gif-sur-Yvette, France</strong><br>
-2019 - 2020</p>
+<h3><strong>Specialization Degree in Mechanics, Aeronautics and Aerospace Engineering</strong></h3>
+<p><em>CentraleSupélec - Gif-sur-Yvette, France - 2019 - 2020</em></p>
 
 <ul>
   <li>Final year of the "Ingénieur Centralien" curriculum, advanced courses in Fluid Dynamics</li>
 </ul>
 
-<h3>MSc in General Engineering, major in Aeronautics and Aerospace</h3>
-<p><strong>EPF École d'Ingénieur-e-s -- Montpellier & Sceaux, France</strong><br>
-2015 - 2020</p>
+<h3><strong>MSc in General Engineering, major in Aeronautics and Aerospace</strong></h3>
+<p><em>EPF École d'Ingénieur-e-s - Montpellier & Sceaux, France - 2015 - 2020</em></p>
 
 <ul>
   <li>Exchange Semester with Polytechnique Montréal in Fluid Dynamics & Heat Transfer Science</li>
@@ -90,43 +84,37 @@ Spatially-distributed parameter identification by physics-informed neural networ
 
 <h3>🎤 Conferences & Workshops</h3>
 
-<h4>DTE & AICOMAS</h4>
-<p>Paris, France<br>
-2025</p>
+<h3><strong>DTE & AICOMAS</strong></h3>
+<p><em>Paris, France - 2025</em></p>
 
 <ul>
   <li>Physics-Informed Machine Learning for Parameter Identification on Shallow-Water Equations, Mini-Symposium presentation</li>
 </ul>
 
-<h4>ECCOMAS</h4>
-<p>Lisboa, Portugal<br>
-2024</p>
+<h3><strong>ECCOMAS</strong></h3>
+<p><em>Lisboa, Portugal - 2024</em></p>
 
 <ul>
   <li>Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation</li>
 </ul>
 
-<h4>ANITI Days</h4>
-<p>Toulouse, France<br>
-2024</p>
+<h3><strong>ANITI Days</strong></h3>
+<p><em>Toulouse, France - 2024</em></p>
 
 <ul>
   <li>Surrogate direct and inverse models for river hydraulics with hybrid Physics-Neural Networks methods, Poster co-presentation with M. Allabou</li>
 </ul>
 
-<h4>ANITI Chair PILearnWater Plenary Sessions</h4>
-<p>Toulouse, France<br>
-2024, 2025</p>
+<h3><strong>ANITI Chair PILearnWater Plenary Sessions</strong></h3>
+<p><em>Toulouse, France - 2024, 2025</em></p>
 
-<h4>ANR MUFFINS Plenary Sessions</h4>
-<p>Aix-en-Provence & Toulouse, France<br>
-2022 - 2024</p>
+<h3><strong>ANR MUFFINS Plenary Sessions</strong></h3>
+<p><em>Aix-en-Provence & Toulouse, France - 2022 - 2024</em></p>
 
 <h3>🎓 Teaching Experience</h3>
 
-<h4>Teaching Assistant</h4>
-<p><strong>INSA Toulouse -- Toulouse, France</strong><br>
-2022 - Present</p>
+<h3><strong>Teaching Assistant</strong></h3>
+<p><em>INSA Toulouse - Toulouse, France - 2022 - Present</em></p>
 
 <ul>
   <li>Tutorial Sessions ("Travaux Dirigés") for 2<sup>nd</sup> and 3<sup>rd</sup> year students in PDE, ODE and Fourier analysis</li>
@@ -147,6 +135,7 @@ Spatially-distributed parameter identification by physics-informed neural networ
 </ul>
 
 </details>
+
 
 <!-- ## 💼 Professional Experience
 
