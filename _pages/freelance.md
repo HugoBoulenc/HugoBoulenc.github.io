@@ -204,14 +204,7 @@ An optional paid maintenance service is available to ensure long-term model perf
 </details>
 
 
-<!-- ---
-
-I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery.  
-The following missions illustrate typical engagement formats. **Each mission can be fully customized to match the client’s objectives, data, and context.**
-
----
-
-## 🔍 Short Mission Example (< 10 workdays): State of the Art Review
+<!-- ## 🔍 Short Mission Example (< 10 workdays): State of the Art Review
 
 ### Milestone 0: Kick-off & Down Payment
 
