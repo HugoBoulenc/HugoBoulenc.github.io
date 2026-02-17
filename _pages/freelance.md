@@ -203,6 +203,8 @@ An optional paid maintenance service is available to ensure long-term model perf
 
 </details>
 
+---
+
 
 <!-- ## 🔍 Short Mission Example (< 10 workdays): State of the Art Review
 
