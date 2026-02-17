@@ -159,7 +159,7 @@ Spatially-distributed parameter identification by physics-informed neural networ
 
 </details>
 
----
+<hr>
 
 
 <!-- ## 💼 Professional Experience
