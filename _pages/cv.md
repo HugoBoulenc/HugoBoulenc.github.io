@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the pdf version [here](/files/Curriculum_Vitae.pdf).
+You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
 
 ---
 
