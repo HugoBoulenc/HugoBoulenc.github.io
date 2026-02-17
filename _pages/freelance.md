@@ -19,33 +19,34 @@ The following missions illustrate typical engagement formats. **Each mission can
 <details>
 <summary><strong>🔍 Short Mission Example (&lt; 10 workdays): State of the Art Review</strong></summary>
 
-<br>
-
 <h3>Milestone 0: Kick-off & Down Payment</h3>
 
 <ul>
-<li><strong>Objective:</strong> Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.</li>
-<li><strong>Payment:</strong> 20% of the total price.</li>
+  <li><strong>Objective:</strong> Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.</li>
+  <li><strong>Payment:</strong> 20% of the total price.</li>
 </ul>
 
 <h3>Milestone 1: State of the Art & Scientific Watch</h3>
 
 <ul>
-<li><strong>Objective:</strong> Establish a clear and structured overview of the scientific landscape on a given topic.</li>
-</ul>
+  <li><strong>Objective:</strong> Establish a clear and structured overview of the scientific landscape on a given topic.</li>
 
-<p><strong>Scope:</strong></p>
-<ul>
-<li>Audit of approaches previously developed by the client</li>
-<li>Literature review of approximately 3 key scientific publications</li>
-<li>Comparison of ~3 major methods through a structured table (advantages / limitations)</li>
-</ul>
+  <li><strong>Scope:</strong>
+    <ul>
+      <li>Audit of approaches previously developed by the client</li>
+      <li>Literature review of approximately 3 key scientific publications</li>
+      <li>Comparison of ~3 major methods through a structured table (advantages / limitations)</li>
+    </ul>
+  </li>
 
-<p><strong>Deliverables:</strong></p>
-<ul>
-<li>Concise report (~5 pages) including a comparative table</li>
-<li>Oral presentation with slides</li>
-<li><strong>Payment:</strong> 80% of the total price.</li>
+  <li><strong>Deliverables:</strong>
+    <ul>
+      <li>Concise report (~5 pages) including a comparative table</li>
+      <li>Oral presentation with slides</li>
+    </ul>
+  </li>
+
+  <li><strong>Payment:</strong> 80% of the total price.</li>
 </ul>
 
 </details>
@@ -55,54 +56,58 @@ The following missions illustrate typical engagement formats. **Each mission can
 <details>
 <summary><strong>📊 Medium Mission Example (10–20 workdays): Data Analysis</strong></summary>
 
-<br>
-
 <h3>Milestone 0: Kick-off & Down Payment</h3>
 
 <ul>
-<li><strong>Objective:</strong> Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.</li>
-<li><strong>Payment:</strong> 20% of the total price.</li>
+  <li><strong>Objective:</strong> Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.</li>
+  <li><strong>Payment:</strong> 20% of the total price.</li>
 </ul>
 
 <h3>Milestone 1: State of the Art & Scientific Framing</h3>
 
 <ul>
-<li><strong>Objective:</strong> Build a solid scientific foundation to guide the data analysis.</li>
-</ul>
+  <li><strong>Objective:</strong> Build a solid scientific foundation to guide the data analysis.</li>
 
-<p><strong>Scope:</strong></p>
-<ul>
-<li>Audit of approaches previously developed by the client</li>
-<li>Literature review of approximately 3 key scientific publications</li>
-<li>Comparison of ~3 major methods through a structured table (advantages / limitations)</li>
-</ul>
+  <li><strong>Scope:</strong>
+    <ul>
+      <li>Audit of approaches previously developed by the client</li>
+      <li>Literature review of approximately 3 key scientific publications</li>
+      <li>Comparison of ~3 major methods through a structured table (advantages / limitations)</li>
+    </ul>
+  </li>
 
-<p><strong>Deliverables:</strong></p>
-<ul>
-<li>Synthetic report (~5 pages) with comparative table</li>
-<li>Oral presentation with slides</li>
-<li><strong>Payment:</strong> 20% of the total price.</li>
+  <li><strong>Deliverables:</strong>
+    <ul>
+      <li>Synthetic report (~5 pages) with comparative table</li>
+      <li>Oral presentation with slides</li>
+    </ul>
+  </li>
+
+  <li><strong>Payment:</strong> 20% of the total price.</li>
 </ul>
 
 <h3>Milestone 2: Data Exploration & Analysis</h3>
 
 <ul>
-<li><strong>Objective:</strong> Understand, clean, and analyze the data to prepare it for operational use.</li>
-</ul>
+  <li><strong>Objective:</strong> Understand, clean, and analyze the data to prepare it for operational use.</li>
 
-<p><strong>Scope:</strong></p>
-<ul>
-<li>Correlation analysis and dimensionality reduction</li>
-<li>Feature engineering (sampling strategies, spectral analysis, etc.)</li>
-<li>Data structuring within a robust and reproducible workspace</li>
-</ul>
+  <li><strong>Scope:</strong>
+    <ul>
+      <li>Correlation analysis and dimensionality reduction</li>
+      <li>Feature engineering (sampling strategies, spectral analysis, etc.)</li>
+      <li>Data structuring within a robust and reproducible workspace</li>
+    </ul>
+  </li>
 
-<p><strong>Deliverables:</strong></p>
-<ul>
-<li>Interactive notebook with full data exploration</li>
-<li>Executive summary (~5 pages)</li>
-<li>Oral presentation with slides</li>
-<li><strong>Payment:</strong> 60% of the total price.</li>
+  <li><strong>Deliverables:</strong>
+    <ul>
+      <li>Interactive notebook with full data exploration</li>
+      <li>Executive summary (~5 pages)</li>
+      <li>Oral presentation with slides</li>
+    </ul>
+  </li>
+
+  <li><strong>Payment:</strong> 60% of the total price.</li>
 </ul>
 
 </details>
@@ -112,75 +117,82 @@ The following missions illustrate typical engagement formats. **Each mission can
 <details>
 <summary><strong>🧠 Long Mission Example (&gt; 20 workdays): Model Development</strong></summary>
 
-<br>
-
 <h3>Milestone 0: Kick-off & Down Payment</h3>
 
 <ul>
-<li><strong>Objective:</strong> Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.</li>
-<li><strong>Payment:</strong> 20% of the total price.</li>
+  <li><strong>Objective:</strong> Define the scope, objectives, and success criteria of the mission, and align on data, timelines, and deliverables.</li>
+  <li><strong>Payment:</strong> 20% of the total price.</li>
 </ul>
 
 <h3>Milestone 1: State of the Art & Scientific Framing</h3>
 
 <ul>
-<li><strong>Objective:</strong> Establish a strong scientific baseline for the entire mission.</li>
-</ul>
+  <li><strong>Objective:</strong> Establish a strong scientific baseline for the entire mission.</li>
 
-<p><strong>Scope:</strong></p>
-<ul>
-<li>Audit of approaches previously developed by the client</li>
-<li>Literature review of approximately 3 key scientific publications</li>
-<li>Comparison of ~3 major methods through a structured table (advantages / limitations)</li>
-</ul>
+  <li><strong>Scope:</strong>
+    <ul>
+      <li>Audit of approaches previously developed by the client</li>
+      <li>Literature review of approximately 3 key scientific publications</li>
+      <li>Comparison of ~3 major methods through a structured table (advantages / limitations)</li>
+    </ul>
+  </li>
 
-<p><strong>Deliverables:</strong></p>
-<ul>
-<li>Synthetic report (~5 pages) with comparative table</li>
-<li>Oral presentation with slides</li>
-<li><strong>Payment:</strong> 20% of the total price.</li>
+  <li><strong>Deliverables:</strong>
+    <ul>
+      <li>Synthetic report (~5 pages) with comparative table</li>
+      <li>Oral presentation with slides</li>
+    </ul>
+  </li>
+
+  <li><strong>Payment:</strong> 20% of the total price.</li>
 </ul>
 
 <h3>Milestone 2: Data Exploration & Structuring</h3>
 
 <ul>
-<li><strong>Objective:</strong> Prepare high-quality data for the modeling phase.</li>
-</ul>
+  <li><strong>Objective:</strong> Prepare high-quality data for the modeling phase.</li>
 
-<p><strong>Scope:</strong></p>
-<ul>
-<li>Correlation analysis and dimensionality reduction</li>
-<li>Feature engineering (sampling strategies, spectral analysis, etc.)</li>
-<li>Data structuring and construction of a robust working environment</li>
-</ul>
+  <li><strong>Scope:</strong>
+    <ul>
+      <li>Correlation analysis and dimensionality reduction</li>
+      <li>Feature engineering (sampling strategies, spectral analysis, etc.)</li>
+      <li>Data structuring and construction of a robust working environment</li>
+    </ul>
+  </li>
 
-<p><strong>Deliverables:</strong></p>
-<ul>
-<li>Interactive notebook for data exploration</li>
-<li>Executive summary (~5 pages)</li>
-<li>Oral presentation with slides</li>
-<li><strong>Payment:</strong> 20% of the total price.</li>
+  <li><strong>Deliverables:</strong>
+    <ul>
+      <li>Interactive notebook for data exploration</li>
+      <li>Executive summary (~5 pages)</li>
+      <li>Oral presentation with slides</li>
+    </ul>
+  </li>
+
+  <li><strong>Payment:</strong> 20% of the total price.</li>
 </ul>
 
 <h3>Milestone 3: Model Development & Delivery</h3>
 
 <ul>
-<li><strong>Objective:</strong> Develop, optimize, and transfer a performant and interpretable model to the client teams.</li>
-</ul>
+  <li><strong>Objective:</strong> Develop, optimize, and transfer a performant and interpretable model to the client teams.</li>
 
-<p><strong>Scope:</strong></p>
-<ul>
-<li>Model training and interpretation of results</li>
-<li>Sensitivity analysis and robustness to hyperparameters</li>
-<li>Team training with dedicated slides for model usage</li>
-</ul>
+  <li><strong>Scope:</strong>
+    <ul>
+      <li>Model training and interpretation of results</li>
+      <li>Sensitivity analysis and robustness to hyperparameters</li>
+      <li>Team training with dedicated slides for model usage</li>
+    </ul>
+  </li>
 
-<p><strong>Deliverables:</strong></p>
-<ul>
-<li>Trained model and training scripts</li>
-<li>Technical report (~10 pages)</li>
-<li>Oral presentation with slides</li>
-<li><strong>Payment:</strong> 40% of the total price.</li>
+  <li><strong>Deliverables:</strong>
+    <ul>
+      <li>Trained model and training scripts</li>
+      <li>Technical report (~10 pages)</li>
+      <li>Oral presentation with slides</li>
+    </ul>
+  </li>
+
+  <li><strong>Payment:</strong> 40% of the total price.</li>
 </ul>
 
 <h3>Post-mission: Model Maintenance</h3>
@@ -190,8 +202,6 @@ An optional paid maintenance service is available to ensure long-term model perf
 </p>
 
 </details>
-
-
 
 
 <!-- ---
