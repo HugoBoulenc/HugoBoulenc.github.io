@@ -15,29 +15,28 @@ redirect_from:
 
 **[EN] About me**
 
-🔎 I’m a PhD student in Applied Mathematics specializing in **Physics-Informed Machine Learning**, integrating physical knowledge into AI models to make them more accurate and robust.
+🔎 I help companies and research teams turn complex **scientific models** into **fast**, **actionable tools**.
 
-👨🏼‍💻 As a freelancer, I help companies and research teams **leverage complex data** from physical phenomena, **build fast surrogate models** to accelerate simulations, and **combine data with physical models** to improve predictions.
+👨🏼‍💻 As a freelance, I focus on two key bottlenecks:
+- **Speeding up** long numerical **simulations from hours to seconds** using surrogate models
+- **Calibrating** complex **physical models** with **thousands of parameters** automatically from data
 
-🧭 My areas of interest include (Physics-Informed) **Machine Learning**, **Fluid Dynamics**, and **Earth Observation**. I’m committed to **projects with real-world impact**, especially in environment, climate urgency, and social equity.
+I combine Machine Learning and physics to deliver solutions that are both **fast**, **reliable** and **usable in practice**.
+
+🎓 During my PhD, I developed a Physics-Informed Machine Learning algorithm capable of **calibrating** a fluid dynamics model with **1000+ parameters in 30 seconds**, **instead of 5 hours** with standard CFD methods, enabling **real-time use** and **large-scale analysis**.
 
 ---
 
 **[FR] À propos de moi**
 
-🔎 Doctorant en Mathématiques Appliquées, je suis spécialisé en **Machine Learning informé par la physique** : j’intègre des connaissances physiques dans des modèles d’IA pour les rendre plus précis et robustes.
+🔎 J’aide les entreprises et équipes de recherche à transformer des **modèles scientifiques** complexes en **outils rapides** et **exploitables**.
 
-👨🏼‍💻 En freelance, j’aide les entreprises et les équipes de recherche à **exploiter des données complexes** issues de phénomènes physiques, à **construire des modèles réduits rapides** pour accélérer vos simulations, ou à **combiner données et modèles physiques** pour améliorer vos prédictions.
+👨🏼‍💻 En freelance, je me concentre sur deux verrous majeurs :
+- **Accélérer les simulations** numériques longues **de plusieurs heures à quelques secondes** grâce à des modèles de substitution (surrogate models)
+- **Calibrer des modèles physiques** complexes avec des **milliers de paramètres** automatiquement à partir des données
 
-🧭 Mes domaines d’intérêt sont : le **Machine Learning** (informé par la physique), la **dynamique des fluides** et l'**observation de la Terre**. Je suis engagé pour des **projets à impact réel**, notamment dans l'environnement, l'urgence climatique et l'égalité sociale.
+Je combine le Machine Learning et la physique pour proposer des solutions à la fois **rapides**, **fiables** et **utilisables en pratique**.
+
+🎓 Durant ma thèse, j’ai développé un algorithme de Physics-Informed Machine Learning capable de **calibrer** un modèle de mécanique des fluides avec **plus de 1000 paramètres en 30 secondes**, **contre 5 heures** avec des méthodes CFD classiques, rendant ainsi possible une utilisation de ce modèle en **temps réel** et des **analyses à grande échelle**.
 
 ---
-
-
-<!-- 🔍 I'm a PhD student in Applied Mathematics at INSA Toulouse and the Institut de Mathématiques de Toulouse (IMT). <br> My research focuses on **Physics-Informed Machine Learning for flood simulation**.
-
----
-
-My interests are centered around **(Physics-Informed) Machine Learning** 🤖, **Fluid Dynamics** 🌊 and **Earth Observation** 🌍. <br> I’m driven to apply my interdisciplinary skills in Maths, Physics and AI to address today's important challenges, such as **environmental issues** 🌱, **climate urgency** 🔥 and **social inequalities** ⚖️.
-
- -->
