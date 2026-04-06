@@ -60,7 +60,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 <br>
 <strong>Relevant experience:</strong>
   <ul>
-    <li>During my PhD, I developed a Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> (500x+ speed-up) with comparable accuracy, enabling <strong>real-time use</strong> and <strong>large-scale analysis</strong>.</li>
+    <li>During my PhD, I developed a Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> (more than 500x speed-up) with comparable accuracy, enabling <strong>real-time use</strong> and <strong>large-scale analysis</strong>.</li>
     <li>During my final-year internship, I developed an <strong>SVR-based surrogate model</strong> to rapidly estimate convection coefficients for <strong>Ariane 6</strong>, enabling much <strong>faster design iterations</strong> compared to traditional CFD simulations..</li>
   </ul>
 
