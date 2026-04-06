@@ -143,7 +143,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 <summary><strong>⚙️ Long Mission Example 2: Calibration of Complex Physical Models (&gt; 20 workdays)</strong></summary>
 
 <br>
-<strong>Relevant experience:</strong> During my PhD, I developed a Machine Learning algorithm capable of calibrating physical models with <strong>1000+ parameters</strong>.
+<strong>Relevant experience:</strong> During my PhD, I developed a Machine Learning algorithm capable of calibrating physical models with more than <strong>1000 parameters</strong>.
 
 <h3>Milestone 0: Kick-off</h3>
 
