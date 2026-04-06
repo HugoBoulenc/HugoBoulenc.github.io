@@ -11,14 +11,17 @@ redirect_from:
 
 ---
 
-I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery.  
-👉 Achieve **100x+ faster simulations** and calibrate models with **1000+ parameters**.
+I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery. <br>
+👉 Achieve **100x+ faster simulations** and calibrate physical models with **1000+ parameters**. <br>
 The following missions illustrate typical engagement formats. **Each mission can be fully customized to match the client’s objectives, data, and context.**
 
 ---
 
 <details>
 <summary><strong>🔍 Short Mission Example: State of the Art Review (&lt; 10 workdays)</strong></summary>
+
+<br>
+<strong>Relevant experience:</strong> During my PhD, I built a structured bibliography of over <strong>130 state-of-the-art scientific articles</strong> in Physics-Informed Machine Learning.
 
 <h3>Milestone 0: Kick-off</h3>
 
@@ -41,14 +44,8 @@ The following missions illustrate typical engagement formats. **Each mission can
 
   <li><strong>Deliverables:</strong>
     <ul>
-      <li>Concise report (~5 pages) with comparative insights</li>
+      <li>Concise report with comparative insights</li>
       <li>Oral presentation with slides</li>
-    </ul>
-  </li>
-
-  <li><strong>Relevant experience:</strong>
-    <ul>
-      <li>During my PhD, I built a structured bibliography of over <strong>130 state-of-the-art scientific articles</strong> in Physics-Informed Machine Learning.</li>
     </ul>
   </li>
 </ul>
@@ -59,6 +56,13 @@ The following missions illustrate typical engagement formats. **Each mission can
 
 <details>
 <summary><strong>⚡ Long Mission Example: Simulation Acceleration with Surrogate Models (&gt; 20 workdays)</strong></summary>
+
+<br>
+<strong>Relevant experience:</strong>
+  <ul>
+    <li>During my PhD, I developed a Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> (500x+ speed-up) with comparable accuracy, enabling <strong>real-time use</strong> and large-scale analysis.</li>
+    <li>During my final-year internship, I developed an <strong>SVR-based surrogate model</strong> to rapidly estimate convection coefficients for <strong>Ariane 6</strong>, enabling much faster design iterations compared to traditional CFD simulations..</li>
+  </ul>
 
 <h3>Milestone 0: Kick-off</h3>
 
@@ -107,13 +111,6 @@ The following missions illustrate typical engagement formats. **Each mission can
       <li>Code and documentation</li>
     </ul>
   </li>
-
-  <li><strong>Relevant experience:</strong>
-    <ul>
-      <li>During my PhD, I developed a Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> with traditional CFD methods, with comparable accuracy.</li>
-      <li>During my final-year internship, I developed an <strong>SVR-based model</strong> to estimate convection coefficients for <strong>Ariane 6</strong>.</li>
-    </ul>
-  </li>
 </ul>
 
 <h3>Milestone 3: Deployment & Usage</h3>
@@ -144,6 +141,9 @@ The following missions illustrate typical engagement formats. **Each mission can
 
 <details>
 <summary><strong>⚙️ Long Mission Example: Calibration of Complex Physical Models (&gt; 20 workdays)</strong></summary>
+
+<br>
+<strong>Relevant experience:</strong> During my PhD, I developed a Machine Learning algorithm capable of calibrating physical models with <strong>1000+ parameters</strong>.
 
 <h3>Milestone 0: Kick-off</h3>
 
@@ -188,14 +188,8 @@ The following missions illustrate typical engagement formats. **Each mission can
   <li><strong>Deliverables:</strong>
     <ul>
       <li>Calibration algorithm</li>
-      <li>Performance benchmark (e.g. hours → seconds)</li>
+      <li>Performance benchmark (e.g. hours → seconds speed-up)</li>
       <li>Technical documentation</li>
-    </ul>
-  </li>
-
-  <li><strong>Relevant experience:</strong>
-    <ul>
-      <li>During my PhD, I developed a Machine Learning algorithm capable of calibrating physical models with <strong>1000+ parameters</strong>.</li>
     </ul>
   </li>
 </ul>
@@ -217,7 +211,7 @@ The following missions illustrate typical engagement formats. **Each mission can
     <ul>
       <li>Calibrated model</li>
       <li>Results report</li>
-      <li>Presentation for stakeholders</li>
+      <li>Presentation of results</li>
     </ul>
   </li>
 </ul>
