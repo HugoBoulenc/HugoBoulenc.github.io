@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery. <br>
-👉 Achieve **100x+ faster simulations** and calibrate physical models with **1000+ parameters**. <br>
+👉 Achieve **up to 100x faster simulations** and calibrate physical models with **1000 parameters** or more. <br>
 The following missions illustrate typical engagement formats. **Each mission can be fully customized to match the client’s objectives, data, and context.**
 
 ---
@@ -55,13 +55,13 @@ The following missions illustrate typical engagement formats. **Each mission can
 <hr>
 
 <details>
-<summary><strong>⚡ Long Mission Example: Simulation Acceleration with Surrogate Models (&gt; 20 workdays)</strong></summary>
+<summary><strong>⚡ Long Mission Example 1: Simulation Acceleration with Surrogate Models (&gt; 20 workdays)</strong></summary>
 
 <br>
 <strong>Relevant experience:</strong>
   <ul>
-    <li>During my PhD, I developed a Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> (500x+ speed-up) with comparable accuracy, enabling <strong>real-time use</strong> and large-scale analysis.</li>
-    <li>During my final-year internship, I developed an <strong>SVR-based surrogate model</strong> to rapidly estimate convection coefficients for <strong>Ariane 6</strong>, enabling much faster design iterations compared to traditional CFD simulations..</li>
+    <li>During my PhD, I developed a Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> (500x+ speed-up) with comparable accuracy, enabling <strong>real-time use</strong> and <strong>large-scale analysis</strong>.</li>
+    <li>During my final-year internship, I developed an <strong>SVR-based surrogate model</strong> to rapidly estimate convection coefficients for <strong>Ariane 6</strong>, enabling much <strong>faster design iterations</strong> compared to traditional CFD simulations..</li>
   </ul>
 
 <h3>Milestone 0: Kick-off</h3>
@@ -100,7 +100,7 @@ The following missions illustrate typical engagement formats. **Each mission can
     <ul>
       <li>Model design and training (ML / physics-informed approaches)</li>
       <li>Validation against reference simulations</li>
-      <li>Performance optimization (speed vs accuracy trade-off)</li>
+      <li>Performance optimization (e.g. speed vs accuracy trade-off)</li>
     </ul>
   </li>
 
@@ -140,7 +140,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 <hr>
 
 <details>
-<summary><strong>⚙️ Long Mission Example: Calibration of Complex Physical Models (&gt; 20 workdays)</strong></summary>
+<summary><strong>⚙️ Long Mission Example 2: Calibration of Complex Physical Models (&gt; 20 workdays)</strong></summary>
 
 <br>
 <strong>Relevant experience:</strong> During my PhD, I developed a Machine Learning algorithm capable of calibrating physical models with <strong>1000+ parameters</strong>.
@@ -211,7 +211,7 @@ The following missions illustrate typical engagement formats. **Each mission can
     <ul>
       <li>Calibrated model</li>
       <li>Results report</li>
-      <li>Presentation of results</li>
+      <li>Presentation to users</li>
     </ul>
   </li>
 </ul>
