@@ -12,7 +12,8 @@ redirect_from:
 ---
 
 I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery. <br>
-👉 Speed-up simulations **from hours to seconds** and calibrate physical models with **thousands of parameters**. <br>
+👉 Speed-up simulations **from hours to seconds** and calibrate physical models with **thousands of parameters**. 👈 <br>
+<br>
 The following missions illustrate typical engagement formats. **Each mission can be fully customized to match the client’s objectives, data, and context.**
 
 ---
@@ -140,7 +141,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 <hr>
 
 <details>
-<summary><strong>⚙️ Long Mission Example 2: Calibration Algorithm Development (&gt; 20 workdays)</strong></summary>
+<summary><strong>⚙️ Long Mission Example 2: Calibration Algorithm for Complex Physical Models (&gt; 20 workdays)</strong></summary>
 
 <br>
 <strong>Relevant experience:</strong> During my PhD, I developed a Physics-Informed Machine Learning algorithm capable of calibrating a fluid dynamics model with <strong>1000+ parameters</strong>.
