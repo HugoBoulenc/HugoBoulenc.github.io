@@ -12,13 +12,13 @@ redirect_from:
 ---
 
 I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery. <br>
-👉 Achieve **up to 100x faster simulations** and calibrate physical models with **1000 parameters** or more. <br>
+👉 Speed-up simulations **from hours to seconds** and calibrate physical models with **thousands of parameters**. <br>
 The following missions illustrate typical engagement formats. **Each mission can be fully customized to match the client’s objectives, data, and context.**
 
 ---
 
 <details>
-<summary><strong>🔍 Short Mission Example: State of the Art Review (&lt; 10 workdays)</strong></summary>
+<summary><strong>🔍 Short Mission Example: State-of-the-Art Review (&lt; 10 workdays)</strong></summary>
 
 <br>
 <strong>Relevant experience:</strong> During my PhD, I built a structured bibliography of over <strong>130 state-of-the-art scientific articles</strong> in Physics-Informed Machine Learning.
@@ -44,7 +44,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 
   <li><strong>Deliverables:</strong>
     <ul>
-      <li>Concise report with comparative insights</li>
+      <li>Report with comparative insights</li>
       <li>Oral presentation with slides</li>
     </ul>
   </li>
@@ -55,13 +55,13 @@ The following missions illustrate typical engagement formats. **Each mission can
 <hr>
 
 <details>
-<summary><strong>⚡ Long Mission Example 1: Simulation Acceleration with Surrogate Models (&gt; 20 workdays)</strong></summary>
+<summary><strong>⚡ Long Mission Example 1: Simulation Speed-up with Surrogate Models (&gt; 20 workdays)</strong></summary>
 
 <br>
 <strong>Relevant experience:</strong>
   <ul>
     <li>During my PhD, I developed a Physics-Informed Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> (more than 500x speed-up) with traditional CFD simulations, enabling <strong>real-time use</strong> and <strong>large-scale analysis</strong>.</li>
-    <li>During my final-year internship, I developed an <strong>SVR-based surrogate model</strong> to rapidly estimate convection coefficients for <strong>Ariane 6</strong>, enabling much <strong>faster design iterations</strong> compared to traditional CFD simulations..</li>
+    <li>During my final-year internship, I developed an <strong>SVR-based surrogate model</strong> to rapidly estimate convection coefficients for <strong>Ariane 6</strong>, enabling much <strong>faster design iterations</strong> compared to traditional CFD simulations.</li>
   </ul>
 
 <h3>Milestone 0: Kick-off</h3>
@@ -70,7 +70,7 @@ The following missions illustrate typical engagement formats. **Each mission can
   <li><strong>Objective:</strong> Define the scope, objectives, success criteria, and align on data, timelines, and deliverables.</li>
 </ul>
 
-<h3>Milestone 1: Problem Framing & Data Preparation</h3>
+<h3>Milestone 1: Problem Framing & Data Analysis</h3>
 
 <ul>
   <li><strong>Objective:</strong> Prepare data and define a robust strategy for surrogate modeling.</li>
@@ -130,7 +130,7 @@ The following missions illustrate typical engagement formats. **Each mission can
     <ul>
       <li>Ready-to-use model (API / scripts)</li>
       <li>User guidelines</li>
-      <li>Presentation of results</li>
+      <li>Oral presentation with slides</li>
     </ul>
   </li>
 </ul>
@@ -140,10 +140,10 @@ The following missions illustrate typical engagement formats. **Each mission can
 <hr>
 
 <details>
-<summary><strong>⚙️ Long Mission Example 2: Calibration of Complex Physical Models (&gt; 20 workdays)</strong></summary>
+<summary><strong>⚙️ Long Mission Example 2: Calibration Algorithm Development (&gt; 20 workdays)</strong></summary>
 
 <br>
-<strong>Relevant experience:</strong> During my PhD, I developed a Physics-Informed Machine Learning algorithm capable of calibrating fluid dynamics models with more than <strong>1000 parameters</strong>.
+<strong>Relevant experience:</strong> During my PhD, I developed a Physics-Informed Machine Learning algorithm capable of calibrating a fluid dynamics model with <strong>1000+ parameters</strong>.
 
 <h3>Milestone 0: Kick-off</h3>
 
@@ -154,7 +154,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 <h3>Milestone 1: Problem Framing & Data Analysis</h3>
 
 <ul>
-  <li><strong>Objective:</strong> Structure the calibration problem and prepare the data.</li>
+  <li><strong>Objective:</strong> Prepare data and define a robust strategy for the calibration algorithm.</li>
 
   <li><strong>Scope:</strong>
     <ul>
@@ -166,8 +166,8 @@ The following missions illustrate typical engagement formats. **Each mission can
 
   <li><strong>Deliverables:</strong>
     <ul>
-      <li>Clean and structured dataset</li>
-      <li>Calibration framework definition</li>
+      <li>Structured dataset ready for calibration</li>
+      <li>Technical note on calibration strategy</li>
     </ul>
   </li>
 </ul>
@@ -189,29 +189,29 @@ The following missions illustrate typical engagement formats. **Each mission can
     <ul>
       <li>Calibration algorithm</li>
       <li>Performance benchmark (e.g. hours → seconds speed-up)</li>
-      <li>Technical documentation</li>
+      <li>Code and documentation</li>
     </ul>
   </li>
 </ul>
 
-<h3>Milestone 3: Results & Integration</h3>
+<h3>Milestone 3: Deployment & Usage</h3>
 
 <ul>
-  <li><strong>Objective:</strong> Deliver calibrated model and ensure usability.</li>
+  <li><strong>Objective:</strong> Make the calibration algorithm usable for real-world applications.</li>
 
   <li><strong>Scope:</strong>
     <ul>
-      <li>Application to real datasets</li>
-      <li>Analysis of calibrated parameters</li>
-      <li>Integration into workflows</li>
+      <li>Integration into client workflow</li>
+      <li>Setup for large-scale calibrations or real-time use</li>
+      <li>Knowledge transfer</li>
     </ul>
   </li>
 
   <li><strong>Deliverables:</strong>
     <ul>
-      <li>Calibrated model</li>
-      <li>Results report</li>
-      <li>Presentation to users</li>
+      <li>Ready-to-use calibration algorithm (API / scripts)</li>
+      <li>User guidelines</li>
+      <li>Oral presentation with slides</li>
     </ul>
   </li>
 </ul>
