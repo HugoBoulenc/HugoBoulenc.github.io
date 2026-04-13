@@ -33,7 +33,7 @@ You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
 
 <ul>
   <li>I’m developing Physics-Informed Neural Networks (PINNs) and other Physics-Informed Machine Learning architectures for high-dimensional data assimilation applied to the Shallow-Water Equations and other hydraulic models, using PyTorch</li>
-  <li>My research bridges AI, fluid dynamics, and applied mathematics, focusing on inverse problems, numerical simulations and parameter estimation in complex spatio-temporal domains</li>
+  <li>My research bridges machine learning, fluid dynamics, and applied mathematics, focusing on inverse problems, numerical simulations and parameter estimation in complex spatio-temporal domains</li>
 </ul>
 
 <p><strong>Consulting Aerospace Engineer</strong><br>
