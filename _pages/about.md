@@ -21,7 +21,7 @@ redirect_from:
 - **Speeding up** long numerical **simulations from hours to seconds** using surrogate models
 - **Calibrating** complex physical models with **thousands of parameters** automatically from data
 
-I combine Machine Learning and physics to deliver solutions that are both **fast**, **reliable** and **usable in practice**.
+I combine Machine Learning and Physics to deliver solutions that are both **fast**, **reliable** and **usable in practice**.
 
 🎓 For example, during my PhD, I developed a Physics-Informed Machine Learning algorithm capable of calibrating a fluid dynamics model with **1000+ parameters in 30 seconds**, **instead of 5 hours** with standard CFD methods, enabling **real-time use** and **large-scale analysis**.
 

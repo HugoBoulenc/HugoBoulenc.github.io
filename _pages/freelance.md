@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-I provide end-to-end support in **Machine Learning, Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery. <br>
+I provide end-to-end support in **Scientific Machine Learning (SciML), Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery. <br>
 👉 Speed up simulations **from hours to seconds** and calibrate physical models with **thousands of parameters**. 👈 <br>
 <br>
 The following missions illustrate typical engagement formats. **Each mission can be fully customized to match the client’s objectives, data, and context.**

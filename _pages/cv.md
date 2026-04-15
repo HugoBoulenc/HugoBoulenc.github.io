@@ -18,7 +18,7 @@ You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
 <details>
 <summary><strong>💼 Professional Experience</strong></summary>
 
-<p><strong>Freelance in Machine Learning & Data Science for Physics</strong><br>
+<p><strong>Freelance in Scientific Machine Learning (SciML) & Data Science</strong><br>
 <em>Freelance - Montpellier, France</em><br>
 <em>2026 - Present</em></p>
 
