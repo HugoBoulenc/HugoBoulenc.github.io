@@ -27,13 +27,13 @@ You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
   <li>I focus on two key bottlenecks: speeding up numerical simulations from hours to seconds using surrogate models and calibrating physical models with thousands of parameters automatically from data.</li>
 </ul>
 
-<p><strong>PhD student in Applied Mathematics for Machine Learning</strong><br>
+<p><strong>PhD in Applied Mathematics for Machine Learning</strong><br>
 <em>INSA Toulouse / Institut de Mathématiques de Toulouse - Toulouse, France</em><br>
 <em>2022 - Present</em></p>
 
 <ul>
-  <li>I’m developing Physics-Informed Neural Networks (PINNs) and other Physics-Informed Machine Learning architectures for high-dimensional data assimilation applied to the Shallow-Water Equations and other hydraulic models, using PyTorch</li>
-  <li>My research bridges machine learning, fluid dynamics, and applied mathematics, focusing on inverse problems, numerical simulations and parameter estimation in complex spatio-temporal domains</li>
+  <li>I developed Physics-Informed Neural Networks (PINNs) and other Physics-Informed Machine Learning architectures for high-dimensional data assimilation applied to the Shallow-Water Equations and other hydraulic models, using PyTorch</li>
+  <li>This research bridges Machine Learning, Fluid Dynamics, and Applied Mathematics, focusing on inverse problems, numerical simulations and parameter estimation in complex spatio-temporal domains</li>
 </ul>
 
 <p><strong>Consulting Aerospace Engineer</strong><br>
@@ -59,12 +59,12 @@ You can download a short pdf version [here](/files/Curriculum_Vitae.pdf).
 <details>
 <summary><strong>📚 Education</strong></summary>
 
-<p><strong>PhD student in Applied Mathematics for Machine Learning</strong><br>
+<p><strong>PhD in Applied Mathematics for Machine Learning</strong><br>
 <em>INSA Toulouse / Institut de Mathématiques de Toulouse - Toulouse, France</em><br>
-<em>2022 - Present</em></p>
+<em>2022 - 2026</em></p>
 
 <ul>
-  <li>PhD student in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation</li>
+  <li>PhD in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation</li>
   <li>Supervised by J. Monnier (INSA Toulouse/IMT), P.-A. Garambois (INRAE Aix-en-Provence) and R. Bouclier (INSA Toulouse/ICA/IUF) at INSA Toulouse</li>
 </ul>
 
