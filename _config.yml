@@ -77,11 +77,11 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  journal_articles:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  PhD_Manuscript:
+  PhD_manuscript:
     title: 'PhD Manuscript'
 
 # Site Settings
