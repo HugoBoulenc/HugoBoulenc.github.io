@@ -24,7 +24,6 @@ The following missions illustrate typical engagement formats. **Each mission can
 <summary><strong>🔍 Short Mission Example: State-of-the-Art Review (&lt; 10 workdays)</strong></summary>
 
 <br>
-![Physics-informed surrogate model](/files/Surrogate_Model.png)
 <strong>Relevant experience:</strong> During my PhD, I built a structured bibliography of over <strong>130 state-of-the-art scientific articles</strong> in Physics-Informed Machine Learning.
 
 <h3>Milestone 0: Kick-off</h3>
@@ -53,7 +52,9 @@ The following missions illustrate typical engagement formats. **Each mission can
 <summary><strong>⚡ Long Mission Example 1: Simulation Speed-up with Surrogate Models (&gt; 20 workdays)</strong></summary>
 
 <br>
-![High-dimensional calibration algorithm](/files/Calibration_Algorithm.png)
+<!-- ![Physics-informed surrogate model](/files/Surrogate_Model.png) -->
+<img src="{{ site.baseurl }}/images/Surrogate_Model.png" alt="Physics-informed surrogate model" style="max-width: 100%; height: auto;"/>
+<br>
 <strong>Relevant experience:</strong>
   <ul>
     <li>During my PhD, I developed a Physics-Informed Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> (more than 500x speed-up) with traditional CFD simulations, enabling <strong>real-time use</strong> and <strong>large-scale analysis</strong>.</li>
@@ -106,6 +107,8 @@ The following missions illustrate typical engagement formats. **Each mission can
 <details>
 <summary><strong>⚙️ Long Mission Example 2: Calibration Algorithm for Complex Physical Models (&gt; 20 workdays)</strong></summary>
 
+<br>
+![High-dimensional calibration algorithm](/images/Calibration_Algorithm.png)
 <br>
 <strong>Relevant experience:</strong> During my PhD, I developed a Physics-Informed Machine Learning algorithm capable of calibrating a fluid dynamics model with <strong>1000+ parameters</strong>.
 
