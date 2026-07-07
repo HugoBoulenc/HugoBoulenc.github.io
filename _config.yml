@@ -77,6 +77,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  phd_manuscript:
+    title: 'PhD Manuscript'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
