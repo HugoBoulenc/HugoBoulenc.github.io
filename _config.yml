@@ -81,7 +81,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  phd_manuscript:
+  PhD_Manuscript:
     title: 'PhD Manuscript'
 
 # Site Settings
