@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 I provide end-to-end support in **Scientific Machine Learning (SciML), Data Science, and Physics-informed modeling**, from scientific state-of-the-art reviews to full model development and delivery. <br>
-👉 Speed up simulations **from hours to seconds** and calibrate physical models with **thousands of parameters**. 👈 <br>
+👉 Speed up simulations **from hours to seconds** and calibrate physical models with **thousands of parameters**! 👈 <br>
 <br>
 You can download a short presentation [here](/files/Hugo_Boulenc_Freelance_SciML.pdf). <br>
 <br>
@@ -58,7 +58,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 
 <div style="text-align: center;">
 <a href="https://surrogate-airfoil-deeponet.nomadapps.fr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #251261; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
-  🪽 Try the live demo for the DeepONet surrogate model on a 2D airfoil 🪽
+  🪽 Try the DeepONet live demo on a 2D airfoil 🪽
 </a>
 </div>
 
