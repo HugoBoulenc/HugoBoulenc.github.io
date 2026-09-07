@@ -3,8 +3,8 @@ layout: archive
 title: "🔬 Supporting your Scientific & Data Projects 🔬"
 permalink: /freelance/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 {% include base_path %}
@@ -55,6 +55,14 @@ The following missions illustrate typical engagement formats. **Each mission can
 <img src="{{ site.baseurl }}/images/Surrogate_Model.png" alt="Physics-informed surrogate model" style="max-width: 100%; height: auto;"/>
 <br>
 <br>
+
+<a href="https://surrogate-airfoil-deeponet.nomadapps.fr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #2a7ae2; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+  🪽 Try the live DeepONet demo on a 2D airfoil 🪽
+</a>
+
+<br>
+<br>
+
 <strong>Relevant experience:</strong>
   <ul>
     <li>During my PhD, I developed a Physics-Informed Machine Learning algorithm capable of solving a fluid dynamics problem in <strong>30 seconds instead of 5 hours</strong> (more than 500x speed-up) with traditional CFD simulations, enabling <strong>real-time use</strong> and <strong>large-scale analysis</strong>.</li>

@@ -10,6 +10,9 @@ main:
 
   - title: "Freelance"
     url: /freelance/
+
+  - title: "Demos"
+    url: /demos/
     
   - title: "Research"
     url: /publications/
