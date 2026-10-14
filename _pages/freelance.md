@@ -60,7 +60,7 @@ The following missions illustrate typical engagement formats. **Each mission can
 <br>
 
 <div style="text-align: center;">
-<a href="https://surrogate-airfoil-deeponet.nomadapps.fr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #251261; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+<a href="{{ '/demos/' | relative_url }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #251261; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
   🪽 Try the DeepONet live demo on a 2D airfoil 🪽
 </a>
 </div>
