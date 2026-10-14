@@ -19,11 +19,10 @@ author_profile: true
 </div>
 
 <br>
-<br>
 
 <div style="text-align: center;">
   <p>
-    <a href="https://surrogate-airfoil-deeponet.nomadapps.fr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #181C1A; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    <a href="https://surrogate-airfoil-deeponet.nomadapps.fr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #251261; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
     Open the demo in a new tab
 </a>
   </p>
