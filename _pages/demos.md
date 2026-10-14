@@ -14,12 +14,16 @@ author_profile: true
 <!-- Here you can find all the live demos I developped to illustrate what I can bring to your company! 
 
 --- -->
+<div style="text-align: center;">
+  <h3>🪽 DeepONet Surrogate Model on a 2D airfoil 🪽</h3>
+</div>
 
-<h3>🪽 DeepONet surrogate model on a 2D airfoil 🪽</h3>
+<br>
+<br>
 
 <div style="text-align: center;">
   <p>
-    <a href="https://surrogate-airfoil-deeponet.nomadapps.fr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #251261; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    <a href="https://surrogate-airfoil-deeponet.nomadapps.fr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #181C1A; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
     Open the demo in a new tab
 </a>
   </p>
