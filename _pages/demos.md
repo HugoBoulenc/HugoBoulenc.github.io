@@ -16,9 +16,19 @@ author_profile: true
 --- -->
 
 <div style="text-align: center;">
+  <iframe
+    src="https://surrogate-airfoil-deeponet.nomadapps.fr"
+    title="Demo DeepONet surrogate model on a 2D airfoil"
+    style="width: 100%; height: 800px; border: 1px solid #ddd; border-radius: 6px;"
+    loading="lazy"
+    allow="fullscreen">
+  </iframe>
+</div>
+
+<!-- <div style="text-align: center;">
   <a href="https://surrogate-airfoil-deeponet.nomadapps.fr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #251261; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
     🪽 Try the live demo for the DeepONet surrogate model on a 2D airfoil 🪽
 </a>
-</div>
+</div> -->
 
 <hr>
